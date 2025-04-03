@@ -1,0 +1,3 @@
+# Ignore JSON files that store logs with sensitive info
+contrackter_data.json
+weekly_pay.json
